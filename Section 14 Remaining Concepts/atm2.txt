@@ -1,0 +1,7 @@
+Money deposited 1000 New Balance = 11000 on 09-07-25 at 14-03-02+
+Money deposited 1000 New Balance = 11000 on 09-07-25 at 14-04-18+
+Money Withdraw 1023 New Balance = 8977 on 09-07-25 At 14-05-02+
+Money deposited 200000 New Balance = 210000 on 09-07-25 at 19-45-36+
+Money Withdraw 2021 New Balance = 7979 on 09-07-25 At 19-45-59+
+Money deposited 1000 New Balance = 11000 on 11-07-25 at 09-37-30+
+Money Withdraw 2000 New Balance = 8000 on 11-07-25 At 09-37-48+

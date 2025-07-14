@@ -1,0 +1,2 @@
+import mains
+mains.welcome()

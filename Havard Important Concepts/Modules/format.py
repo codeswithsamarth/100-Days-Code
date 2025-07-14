@@ -2,7 +2,7 @@ import re
 
 email = input("Enter The Email:")
 
-if re.search(r"[\w]+@[\w]+\.edu$",email):
-    print("Valid")
+if re.search(r"^[A-za-z_]+@gmail+\.com$",email):
+    print("Valid email")
 else:
-    print("Invalid")
+    print("Invalid Email")
